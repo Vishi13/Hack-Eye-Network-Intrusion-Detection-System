@@ -9,3 +9,5 @@ Intrusion detection system (IDS) is hardware or software monitor that analyzes d
 
 Decision Tree machine learning algorithm is used on NSL-KDD dataset for detecting the anomaly in the network.
 
+# References :
+https://github.com/CynthiaKoopman/Network-Intrusion-Detection
